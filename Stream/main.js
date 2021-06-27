@@ -1,5 +1,5 @@
 var fs = require("fs");
-var Hello = require("../helloworld");
+var Hello = require("../模块化/helloworld");
 var data='';
 
 // 模块系统，方法调用
